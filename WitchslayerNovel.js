@@ -2,6 +2,8 @@ window.onload = Start;
 
 function Start()
 {
+	alert($);
+
 	// Load raw HTML file, then parse it.
 	$("#content").load("RawWitchslayerNovel.html", MarkUp);
 }
