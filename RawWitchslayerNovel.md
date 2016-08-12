@@ -8,6 +8,8 @@
 
 # Ravel Road
 
+Dingo!!!
+
 Been raining for two days. Exactly as long as I'd been on my way. The bitter cold of the bleak weather pierced my coat, sawed right under my skin.
 
 I must have been getting near. I hoped I was getting near.
