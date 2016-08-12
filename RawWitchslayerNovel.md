@@ -1,3 +1,5 @@
+This project is hosted at [GitHub](https://github.com/matej-zajacik/witchslayer-novel).
+
 **Disclaimer:** Any similarities to The Witcher books or games are accidental. I've only come to know about their existence recently.
 
 <center>...let me tell you a little story...</center>
@@ -7,8 +9,6 @@
 
 
 # Ravel Road
-
-Dingo!!!
 
 Been raining for two days. Exactly as long as I'd been on my way. The bitter cold of the bleak weather pierced my coat, sawed right under my skin.
 
