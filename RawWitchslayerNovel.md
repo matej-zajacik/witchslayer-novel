@@ -5,10 +5,10 @@ This project is hosted at [GitHub](https://github.com/matej-zajacik/witchslayer-
 <center>...let me tell you a little story...</center>
 
 
-keby nieco tak prd
-
 
 # Ravel Road
+
+No dobre tak si prdneme a bude to!
 
 Been raining for two days. Exactly as long as I'd been on my way. The bitter cold of the bleak weather pierced my coat, sawed right under my skin.
 
