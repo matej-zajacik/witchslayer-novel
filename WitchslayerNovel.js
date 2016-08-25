@@ -22,7 +22,7 @@ function MarkUp()
 
 		console.log(s);
 
-		s[0] = '<span class="speech"></span> <strong>' + s[0] + ':</strong>';
+		s[0] = '<span class="speechIcon"></span> <span class="speechText">' + s[0] + ':</span>';
 
 		t.innerHTML = s[0] + s[1];
 

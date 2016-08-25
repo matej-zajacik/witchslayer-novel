@@ -1,9 +1,43 @@
+@import 'https://fonts.googleapis.com/css?family=Acme';
+@import 'https://fonts.googleapis.com/css?family=Hammersmith+One';
+@import 'https://fonts.googleapis.com/css?family=Jomhuria';
+@import 'https://fonts.googleapis.com/css?family=Londrina+Solid';
+@import 'https://fonts.googleapis.com/css?family=Patua+One';
+@import 'https://fonts.googleapis.com/css?family=Signika+Negative';
+@import 'https://fonts.googleapis.com/css?family=Viga';
+@import 'https://fonts.googleapis.com/css?family=Alice';
+
 body
 {
 	background-color: rgb(60, 60, 50);
-	font-family: "Open Sans";
+	/*font-family: "Open Sans";*/
 	/*font-family: "Trebuchet MS", "Georgia", "Palatino", "Palatino Linotype";*/
 	font-size: 16px;
+
+	/*font-size: 18px;
+	font-family: 'Patua One', cursive;*/
+
+	/*font-size: 16px;
+	font-family: 'Hammersmith One', sans-serif;*/
+
+	/*font-size: 24px;
+	font-family: 'Jomhuria', cursive;*/
+
+	/*font-size: 18px;
+	font-family: 'Alice', serif;
+	font-weight: 500;*/
+
+	/*font-size: 18px;
+	font-family: 'Signika Negative', sans-serif;*/
+
+	/*font-size: 16px;
+	font-family: 'Viga', sans-serif;*/
+
+	/*font-size: 18px;
+	font-family: 'Londrina Solid', cursive;*/
+
+	font-size: 18px;
+	font-family: 'Acme', sans-serif;
 }
 
 #page
@@ -30,22 +64,6 @@ h1
 
 	color: rgb(100, 75, 10);
 	text-shadow: 0px 0px 1em rgba(255, 255, 255, 1);
-}
-
-@media print
-{
-	h1
-	{
-		page-break-before: always;
-	}
-}
-
-@media screen
-{
-	h1
-	{
-		margin-top: 30em;
-	}
 }
 
 p
@@ -104,11 +122,17 @@ code
 	text-align: center;
 }
 
-.speech
+.speechIcon
 {
 	display: inline-block;
 	background-image: url('./speech.png');
 	width: 24px;
 	height: 19px;
-	vertical-align: middle;
+	vertical-align: text-bottom;
+}
+
+.speechText
+{
+	margin-right: 0.5em;
+	font-weight: bold;
 }

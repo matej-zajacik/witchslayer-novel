@@ -8,8 +8,6 @@ This project is hosted at [GitHub](https://github.com/matej-zajacik/witchslayer-
 
 # Ravel Road
 
-No dobre tak si prdneme a bude to!
-
 Been raining for two days. Exactly as long as I'd been on my way. The bitter cold of the bleak weather pierced my coat, sawed right under my skin.
 
 I must have been getting near. I hoped I was getting near.
@@ -44,7 +42,7 @@ My feelings were mixed when they told me. Strangely, relief prevailed over grief
 
 Lora was cold towards us, as if her feelings and emotions had died away a long time ago. I think she must have been warm and jolly once, but as time went on, it was getting worse. Sometimes, I felt uneasy in her presence, especially when she sat in her black chair, silent and motionless for hours.
 
-And sometimes, she stared at me. Not a stern glare of a parent who cares for their son, wanting the best for him. Rather an eerie, menacing stare, as chilling as death. One you can get in a dark alley from a stranger, when both of you are scared shitless by one another, and you put on the cold, unpiercable mask of pretension. To give one another the assumption that, "Hey, you are the prey and I'm the hunter here!" We all do it. You never who who you pass by in the night.
+And sometimes, she stared at me. Not a stern glare of a parent who cares for their son, wanting the best for him. Rather an eerie, menacing stare, as chilling as death. One you can get in a dark alley from a stranger, when both of you are scared shitless by one another, and you put on the cold, unpiercable mask of pretension. To give one another the assumption that, "Hey, you are the prey and I'm the hunter here!" We all do it. You never know who you pass by in the night.
 
 But my mother's intentions, reasons... Can't explain it, really. When father was away, I rather mostly avoided her altoghether. And then, at times, she was fine, caring, motherly. But that was rare.
 
@@ -80,6 +78,8 @@ With nothing much to do for this dude, as woeful as it is, I left him to his fat
 
 As I walked away, I turned my head back once more, and strangely enough, the raven did not stop by to have a snack. He just followed me.
 
+# Strange Presence
+
 The road turned. In the distance, I saw silhouettes of houses. As I sharpened my sight into the mile that separated me from the town, pleasing my heart with a vision of a warm bath, with blurred cuddly yellow lantern lights reinforcing this image, I sensed a presence of something.
 
 Something quite close. Too close for my comfort. I tilted my eyes down and there it was. A dog! Feasting on a dead body that used to be a human just moments ago. Apparently, the poor animal hadn't eaten in days.
@@ -96,13 +96,13 @@ Watching the beast with a scholastic eye for a bit longer, I was beginning to be
 
 To my relief, the kin didn't notice me. I noticed him first. So no rude surprises to endure. To my dis-relief, there was no other way around. I had to go right through his territory. But, there was no gear on me. No weapons, no essences, potions, no nothing.
 
-Father was really itchy about letting me go alone with all the fancy equipment.See? No problemo if I fight demons with bare hands, right? But damn, dare anything happen to that expensive stuff!
+Father was really itchy about letting me go alone with all the fancy equipment. See? No problemo if I fight demons with bare hands, right? But damn, dare anything happen to that expensive stuff!
 
 He just didn't trust me enough. Don't know how it's any different from questing together, but he had this way of patronizing me when I was to make my own choice. Like I couldn't ever do well on my own. My choices were stupid, his were wise. That sort of thing.
 
 Well, that's how he played it out. But I knew he just followed the family tradition. Every Rike on his first solo contract was to go through a baptism of fire. Means you get nothing. Not even a shiv. Gotta scrabble up anything necessary to finish the job yourself. And mind you, it's not always even clear right away what exactly that job is!
 
-This is to put the years of training and upbringing to test. Physical fitness, combat skills, knowledge. All of what you've learned, what you are. Can you somehow get to weapons? Do you remember how to prepare all the blade-enhancing essences and life-saving potions? And most importantly, can you bang a coin out of it? Can you succeed against all odds?
+This is to put the years of training and upbringing to test. Physical fitness, combat skills, knowledge of lore. All of what you've learned, what you are. Can you somehow get to weapons? Do you remember how to prepare all the blade-enhancing essences and life-saving potions? And most importantly, can you bang a coin out of it? Can you succeed against all odds?
 
 And what's on the line? Your neck and the prestige of the school or house you represent. Fathers know that as well. And yet they risk it all. Chaff must be severed from grain. Let me tell you, our profession is no picnic. It's killing business. Lives end. Limbs fall. That's how it is. And I'm sure I'll do the same to my son.
 
@@ -112,15 +112,15 @@ And what's on the line? Your neck and the prestige of the school or house you re
 
 Before venturing deeper into the trepidations of a demon-hunter's life, I grabbed a thick bough lying in the mud, and with a warcry worth a Rike, I charged the beast. That's how my old man always did it. If violence is inevitable, don't hesitate, don't think, just do it.
 
-The startled dog leaped away at first, but after the initial shock, it returned to defend its kill. Or, as it seems, rather make a new one! I shouted, menaceed, and swung like crazed. Knowing I was a lot heavier than the beast, I felt quite safe. Yet no matter how wild I went, I could't match its growing ferocity. And I didn't possess fangs, as much as I'd love to. The monster managed to grab a hold of my coat, pulling and jerking, trying to throw me off balance. In vain. As I suspected, the poor famished dog simply didn't have enough weight on me. After what looked like a moment, but probably took a good few minutes of a heated do-or-die skirmish, the bough crashed into the dog's bottom jaw, falling apart.
+The startled dog leaped away at first, but after the initial shock, it returned to defend its kill. Or, as it seems, rather make a new one! I shouted, menaced, and swung like crazed. Knowing I was a lot heavier than the beast, I felt quite safe. Yet no matter how wild I went, I could't match its growing ferocity. And I didn't possess fangs, as much as I'd love to. The monster managed to grab a hold of my coat, pulling and jerking, trying to throw me off balance. In vain. As I suspected, the poor famished dog simply didn't have enough weight on me. After what looked like a moment, but probably took a good few minutes of a heated do-or-die skirmish, the bough crashed into the dog's bottom jaw, falling apart.
 
 All of a sudden, I had no weapon in my hands but a piece of snapped wood. Thank you, father. For not allowing me to bring a proper weapon with me on a mission that's all about slaying demons. Seems like a good and well-reasoned idea to me. But...
 
 There was no fuss. No more grunts, snarls, biting fangs. Nothing. The poor beast was dead.
 
-Damn, that one hit him on the button. A truly loveable puppy, motionless in the mud, rotten from inside. Every last bit of me wanted to investigate what this thing actually was, by what kind of arcane curse it was befallen. Reading books is one thing, but messing with the subject in person, or rather in hands, is a whole another level. No time for that, though. I could only imagine what horrors might have been happening in the town ahead right now.
+Damn, that one hit him on the button. A truly loveable puppy, motionless in the mud, rotting from inside. Every last bit of me wanted to investigate what this thing actually was, by what kind of arcane curse it was befallen. Reading books is one thing, but messing with the subject in person, or rather in dog, is a whole another level. No time for that, though. I could only imagine what horrors might have been happening in the town ahead right now.
 
-I could hear faint, distant sounds of commotion, bearing on from the town. Must make haste, save the day, and the ladies. Maybe there'd be some time to examine the beast later, but now it was time to leave the scene of romance, I guessed.
+I could hear faint, distant sounds of commotion, bearing on from the town. Must make haste, save the day, win the ladies. Maybe there'd be some time to examine the beast later, but now it was time to leave the scene of romance, I guessed.
 
 As I walked forward, and the adrenaline rush settled down, my elbow started to thump with pain. The skinny bastard scratched me hard. Observing the wound and twisting my arm around, I realized it was nothing to scoff at. Pretty deep cut. A wonderful thing was that I had nothing to mend it with.
 
@@ -134,25 +134,27 @@ When the siren faded away into the rain, the sound of raindrops, pounding on my 
 
 # Town Gate
 
-Reaching the outskirts, I approached a gate. Large, iron, heavy gate. Wonderful work if you ask me. Solid and imposing. With a shiny star at the centre above the arch. That was Starham's sigil. People here believed they had come from the stars. Or rather that their ancestors had. No time for history now, even though this town's genesis was quite intriguing. Maybe later.
+Reaching the outskirts, I approached a gate. Large, iron, heavy gate. Wonderful work if you ask me. Solid and imposing. With a shiny star at the center above the arch. That was Starham's sigil. People here believed they had come from the stars. Or rather that their ancestors had. No time for history now, even though this town's genesis was quite intriguing. Maybe later.
 
 Below the frame lay a few guards, breathless. Resting in the mud at a time like this, with doors agape and demons abound somewhere near, that was a flagrant irresponsibility, my friends! I knew, you couldn't hear me any more. You gave your lives away, protecting... yourselves, in the first place, I guess. But still, your bravery would echo across the centur...
 
 Wait. What was it glistening in the fen? I'd be damned! A fine dagger! Just for me. You wouldn't mind me taking it, guardsman Ripped, would you?
 
-Hmmm. Okay, so not as fine as it seemed at first sight. Actually, quite the opposite. Though I was still glad I had something sharp in my hands now. Better than those dirty uncut fingernails of mine. Now that I think of it, demons that overpowered those lads don't use weapons. Not man's weapons, at least. I wonder who, or rather what they were. Somehow I was under the impression that I would find out soon enough. And something told me it wasn't gonna be just kins, like the one slain back there.
+Hmmm. Okay, so not as fine as it seemed at first sight. Actually, quite the opposite. Though I was still glad I had something sharp in my hands now. Better than those dirty uncut fingernails of mine.
+
+Now that I think of it, demons that overpowered those lads don't use weapons. Not man's weapons, at least. I wonder who, or rather what they were. Somehow I was under the impression that I would find out soon enough. And something told me it wasn't gonna be just kins, like the one slain back there.
 
 Something was amiss, though. If the brutes were insentient enough to leave weapons behind, why was the gate open? <del>did the guards open the gates to fight them?</del> Beasts cannot open gates by themselves, right? So why would the witty sentient guards do? To face big angry demons, quite likely large in numbers, if you can just shush behind a solid, fine gate like this? I, for one, would not. Hell no! If my father heard me now... Or maybe they were no dumb brutes, and they did carry their own weapons. Or the gate was stormed from the other side, and the sentries tried to flee from certain doom. Or the storm came from both sides! Or maybe I was overspeculating. One thing was sure as hell after all -- they seemed to have fled right into the certain doom rather than away from it.
 
-Past the gate, in a web of streets, alleys and small squares, I found myself amidst chaos. A burgess here and there, running for their lives. Others watching from the windows, curious, nervous, with horror in their eyes. Women screamed somewhere beyond acrid smoke, wallowing around. As I closed in on the town centre, I saw carts and other stuff smashed to pieces, trails of blood, a mutilated corpse, and more people running away from something.
+Past the gate, in a web of streets, alleys and small squares, I found myself amidst chaos. A burgess here and there, running for their lives. Others watching from the windows, curious, nervous, with horror in their eyes. Women screamed somewhere beyond acrid smoke, wallowing around. As I closed in on the town center, I saw carts and other stuff smashed to pieces, trails of blood, a mutilated corpse, and more people running away from something.
 
 And then, then I saw that something. A pack of furious kins, tearing some poor soul apart. And a pack leader! It was still a kin, only much larger. Dogs infused with demonic blood. Running through their veins, burning in their eyes. The red tint was unmistakable.
 
-This was going to be hard. Fucking hard. I needed to pick them one by one, so I could face the big one alone. If only I had had a crossbow. I could have ended the misery of a number of them before they'd even know what hit them. Well, I didn't have a crossbow. Just a dagger. And even that, inferior to anything I ever held in my hands. No problemo, though! I was a witchslayer, a chosen assassin of foul beasts, a professional killer, an unmatchable fighter of all evils. I had the patent to get out of any situation, no matter how sticky. Or stinky. I was the light in the world of darkness. And so on and so forth. My father's voice playing in my head. Well, what a blast!
+This was going to be hard. Fucking hard. I needed to pick them one by one, so I could face the big one alone. If only I had had a crossbow. I could have ended the misery of a number of them before they'd even know what hit them. Well, I didn't have a crossbow. Just a dagger. And even that, inferior to anything I ever held in my hands. No problemo, though! I was a witchslayer, a chosen assassin of foul beasts, a professional killer, an unmatched fighter of all evils. I had the patent to get out of any situation, no matter how sticky. Or stinky. I was the light in the world of darkness. And so on and so forth. My father's voice playing in my head. Well, what a blast!
 
-He was right in one thing. Lamenting never helps. So let's analyze what I could really do, there and then, with what I had. The books say that kins are dogs and nothing more. With just a little tiny alteration. A drop of demonic blood in their own blood makes them a lot more vicious, aggressive, and relentless. And as it seems, the master of this pack ain't nowhere nearby. They were on their own. They must have invaded the town with a purpose, under a leadership of someone with power. An actual person. But now, that leader was out of sight, and the new one was one of their own. The big brute. Maybe if I slew him quickly, the rest would yield. Nah, doubt it. They would protect the kill with all the ferocity kins are known for. By the way, the kill!
+He was right in one thing. Lamenting never helps. So let's analyze what I could really do, there and then, with what I had. `Weird sentence.` The books say that kins are dogs and nothing more. With just a little tiny alteration. A drop of demonic blood in their own blood makes them a lot more vicious, aggressive, and relentless. And as it seems, the master of this pack ain't nowhere nearby. They were on their own. They must have invaded the town with a purpose, under a leadership of someone with power. An actual person. But now, that leader was out of sight, and the new one was one of their own. The big brute. Maybe if I slew him quickly, the rest would yield. Nah, doubt it. They would protect the kill with all the ferocity kins are known for. By the way, the kill!
 
-It was... had been, a woman. A fat one. Being torn to meaty chunks, not 60 feet away from me. Fat was a commodity sought after in these times of cold. The dogs knew who to choose. I gave them that. Thing was, they weren't gonna live long enough to use it, as it was time to avenge the lady.
+It was... had been, a woman. A fat one. Being torn to meaty chunks, not 60 feet away from me. Fat was a commodity sought after in these times of cold. The dogs knew who to choose. I gave them that. Thing was, they weren't gonna live long enough to savor it, as it was time to avenge the lady.
 
 I moved forward, determined. I hoped I knew what I was doing. Well, by stating that, it's clear beyond doubt that I had no freaking idea what I was doing.
 
@@ -172,11 +174,11 @@ The rest of the pack noticed me, but they didn't seem to be willing to leave the
 
 After my first kill, I felt empowered. But that feeling was shattering quickly, as the stand-off continued. The kins, nervous, jerking, poised to attack any moment. And then, they did! The big one led the charge!
 
-Instincts took over. I watched myself sprinting away, as if in a dream. No control. No feelings. Just action. Instincts are nice, but they don't make you a superhuman sprinter. The brutes quickly caught up, lunging at my back. I turned around and slashed the dagger across. The poor whelp, the one most eager to taste my flesh, or the fastest of them all, got cut on the nose. A bad, deep gush, bursting with blood. It rolled to the side, whining, and lost interest in me in an instant.
+Instincts took over. I watched myself sprinting away, as if in a dream. No control. No feelings. Just action. Instincts are nice, but they don't make you a superhuman sprinter. The brutes quickly caught up, lunging at my back. I turned around and swept the dagger across. The poor whelp, the one most eager to taste my flesh, or the fastest of them all, got cut on the nose. A bad, deep gush, bursting with blood. It rolled to the side, whining, and lost interest in me in an instant.
 
-Another one grabbed a hold of my right hand. That was bad. Because that's where the dagger was. I tried to shake the kin off with all my strength and added fury to the mix. Before I could get anywhere with that endeavour, the big one jumped my chest, sending me tumbling on the cobblestones. I still managed to put the blade into the other hand, and stabbed the grabber two or three times, all the while shielding my face from the grimy fangs of the big fiend. I felt a third dog furiously biting my right feet and leg. Then another one, from behind, trying to join the chieftain in the feast, with my facial features on the menu. Struggling hard, and even harder... No, struggling hardcore! That's the word. Struggling hardcore, I kept stabbing, shoving, kicking, and punching anything I could. I didn't know such a fighting spirit was in me. So much power and determination to live. Well, I guess we all fight like lions when the end is near.
+Another one grabbed a hold of my right hand. That was bad. Because that's where the dagger was. I tried to shake the kin off with all my strength and added fury to the mix. Before I could get anywhere with that endeavor, the big one jumped my chest, sending me tumbling on the cobblestones. I still managed to put the blade into the other hand, and stabbed the grabber two or three times, all the while shielding my face from the grimy fangs of the big fiend. I felt a third dog furiously biting my right feet and leg. Then another one, from behind, trying to join the chieftain in the feast, with my facial features on the menu. Struggling hard, and even harder... No, struggling hardcore! That's the word. Struggling hardcore, I kept stabbing, shoving, kicking, and punching anything I could. I didn't know such a fighting spirit was in me. So much power and determination to live. Well, I guess we all fight like lions when the end is near.
 
-And yes, it was near. No matter how ferocious, I was simply being overpowered. My father would kill me if I died there. Like that! In the jaws of rabid dogs. I realized then that there was nothing noble in death, nothing poetic. It's just you getting your ass kicked. And then it's over.
+And yes, it was near. No matter how ferocious, I was simply being overpowered. My father would have killed me if I died there. Like that! In the jaws of rabid dogs. I realized then that there was nothing noble in death, nothing poetic. It's just you getting your ass kicked. And then it's over.
 
 My strength began to fade out, I no longer could hold the mongrel out of my face and shrug off the others. As moments passed, I succumbed to the bites and rips. But...
 
